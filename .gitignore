@@ -1,0 +1,18 @@
+# Python / Django exclusions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# IDE / OS files
+.vscode/
+.idea/
+*.DS_Store

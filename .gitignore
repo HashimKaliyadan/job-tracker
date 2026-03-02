@@ -1,9 +1,7 @@
-# Python / Django
+# Python / Django exclusions
 __pycache__/
 *.py[cod]
 *$py.class
-*.pyo
-*.pyd
 
 # Virtual Environment
 venv/
@@ -14,23 +12,11 @@ env/
 db.sqlite3
 db.sqlite3-journal
 
-# Django
-*.log
-local_settings.py
-media/
-
 # Node / Frontend
 node_modules/
 dist/
-.cache/
 
-# IDE / OS
+# IDE / OS files
 .vscode/
 .idea/
 *.DS_Store
-Thumbs.db
-*.swp
-*.swo
-
-# Gemini
-.gemini/

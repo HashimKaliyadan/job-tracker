@@ -53,8 +53,7 @@ job_tracker/
 │   │   └── index.css      # Design system
 │   ├── package.json
 │   └── vite.config.js
-└── docs/                  # API documentation
-    └── API.md
+└── API.md                  # API documentation
 ```
 
 ## Setup Instructions
